@@ -1,0 +1,22 @@
+body {
+	font-family: arial;
+	font-size: 12px;
+	margin: 0;
+}
+
+#overlay {
+	background: #000;
+	opacity: 1;
+
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+
+}
+#popup{
+	position: absolute;
+	background: #fff;
+	padding: 15px;
+}
